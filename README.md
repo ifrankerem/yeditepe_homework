@@ -1,1 +1,0 @@
-# yeditepe_homework
