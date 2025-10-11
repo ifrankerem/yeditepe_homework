@@ -1,4 +1,4 @@
-// 20220201001-072 İrfan Kerem Arslan -HW1
+// 20220201001-072 İrfan Kerem Arslan -HW2
 
 #include <stdio.h>
 
